@@ -4,7 +4,7 @@ An application in the C programming language to manage a library's book stock
 #include <stdlib.h>
 #include <string.h>
 
-// Definirea structurii conform cerintei
+// Definirea structurii
 struct Carti {
     char titlu[50];
     char autor[50];
